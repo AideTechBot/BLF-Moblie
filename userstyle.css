@@ -31,7 +31,20 @@ b {
     font-size:16px;
     font-weight:900;
     margin-bottom:5px;
-	color:#333333;
+	color:#082567;
+}
+
+.quote {
+	background-color:#cdcdcd;
+    border:1px;
+    border-style:solid;
+    display:block;
+    padding:5px;
+    margin:3px 0px 3px 0px;
+}
+
+.quotetitle {
+	font-size:10px;
 }
 
 }
