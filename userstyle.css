@@ -19,7 +19,6 @@ body {
 .windowbg {
     padding:10px 20px 10px 20px;
 	font-family: Verdana;
-    background-color:#6991ac;
 }
 
 .windowbg2 {
@@ -29,6 +28,9 @@ body {
 }
 
 b {
+    font-size:16px;
+    margin-bottom:5px;
 	color:#333333;
 }
+
 }
